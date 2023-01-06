@@ -1,6 +1,6 @@
 # terraform_NV
 
-Playing with Computer vision: Convert pictire taken with mobile phone to straight image.
+Playing with Computer vision: Convert picture taken with mobile phone to straight image.
 Start point:
 
 ![image](https://user-images.githubusercontent.com/72379531/204757255-eadc2f92-2386-47f4-9500-a3004c8dfbc9.png)
